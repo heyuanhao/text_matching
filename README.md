@@ -1,6 +1,12 @@
 # text_matching
 
-[文本匹配模型简介和源码合集](https://terrifyzhao.github.io/2019/05/13/%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E5%90%88%E9%9B%86.html)
+[文本匹配模型简介和源码合集](https://terrifyzhao.github.io/2019/05/13/%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E5%90%88%E9%9B%86.html) 
+[DSSM](https://terrifyzhao.github.io/2019/05/14/%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E4%B9%8BDSSM.html) 
+[ESIM](https://terrifyzhao.github.io/2019/05/20/%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E4%B9%8BESIM.html) 
+[ABCNN](https://terrifyzhao.github.io/2019/05/13/%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E4%B9%8BABCNN.html) 
+[BiMPM](https://terrifyzhao.github.io/2019/03/19/BiMPM%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB.html) 
+[DIIN](https://terrifyzhao.github.io/2019/05/30/%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E4%B9%8BDIIN.html) 
+[DRCN](https://terrifyzhao.github.io/2019/05/30/%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E4%B9%8BDRCN.html)
 
 文本匹配模型
 
