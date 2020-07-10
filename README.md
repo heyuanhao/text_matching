@@ -1,4 +1,7 @@
 # text_matching
+
+[文本匹配模型简介和源码合集](https://terrifyzhao.github.io/2019/05/13/%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E5%90%88%E9%9B%86.html)
+
 文本匹配模型
 
 本项目包含目前大部分文本匹配模型，持续更新中，其中论文解读请点击[文本相似度，文本匹配模型归纳总结](https://blog.csdn.net/u012526436/article/details/90179466)
